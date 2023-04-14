@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlEf", "MySqlEf\MySqlEf.csproj", "{B91A0DA6-E281-40F4-B0E0-1F49FB00E014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySqlDapper", "MySqlDapper\MySqlDapper.csproj", "{D84813CA-5F07-4BDE-A9A2-A990DC20EAC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Performance", "Performance\Performance.csproj", "{680F7F8F-3F7D-4ABC-AC61-69DC0E0EFCA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91A0DA6-E281-40F4-B0E0-1F49FB00E014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91A0DA6-E281-40F4-B0E0-1F49FB00E014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91A0DA6-E281-40F4-B0E0-1F49FB00E014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91A0DA6-E281-40F4-B0E0-1F49FB00E014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D84813CA-5F07-4BDE-A9A2-A990DC20EAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D84813CA-5F07-4BDE-A9A2-A990DC20EAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D84813CA-5F07-4BDE-A9A2-A990DC20EAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D84813CA-5F07-4BDE-A9A2-A990DC20EAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680F7F8F-3F7D-4ABC-AC61-69DC0E0EFCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680F7F8F-3F7D-4ABC-AC61-69DC0E0EFCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680F7F8F-3F7D-4ABC-AC61-69DC0E0EFCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680F7F8F-3F7D-4ABC-AC61-69DC0E0EFCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
